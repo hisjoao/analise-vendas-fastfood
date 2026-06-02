@@ -1,4 +1,6 @@
 # Dashboard de Performance de Vendas - Balaji Fast Food 📊🍔
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Este projeto foi desenvolvido com o objetivo de transformar dados brutos de uma operação de fast-food em insights estratégicos para a gestão do negócio. O painel centraliza indicadores-chave de performance (KPIs) para permitir uma tomada de decisão rápida e baseada em dados reais.
 
