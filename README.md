@@ -37,4 +37,4 @@ Para profissionais técnicos ou recrutadores que desejam avaliar a estrutura do 
 
 ## 📷 Visualização do Painel
 
-![Dashboard de Performance de Vendas](dashboard.png)
+![Dashboard de Performance de Vendas](dashboard.png.jpg)
